@@ -1,4 +1,5 @@
-# Replace by *YourProposedProposedProjectName (the Proposed Project Descrition and why it is useful is next)*
+# *Replace with YourProposedProposedProjectName*
+## Description/Motivation
 
 Your formally written project proposal description, and why it is useful/interesting/fun goes here.
 
