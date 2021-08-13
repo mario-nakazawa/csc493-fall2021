@@ -11,8 +11,7 @@ Your formally written project proposal description, and why it is useful/interes
 
 - [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
 - [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
-- etc.
-- If nothing is required, please say so.
+- IDE, if applicable
 
 ## Author
 
