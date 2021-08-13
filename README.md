@@ -5,7 +5,7 @@ Your formally written project proposal description, and why it is useful/interes
 
 ### Prerequisites
 
-- What is likely to be needed to install and to run *YourProposedProjectName* go here.
+What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
 
 ## Built With
 
@@ -19,10 +19,10 @@ Your formally written project proposal description, and why it is useful/interes
 
 ## Acknowledgments
 
-- all whose code are likely to be used in YourProjectName
+- If you find code that you are going to use in YourProjectName, include author's name and URL here.
 - all who inspired the idea and/or the code in YourProjectName
-- etc.
+- other people you wish to acknowledge
 
 ## License (not required initially)
 
-This project is licensed under the ??? License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
