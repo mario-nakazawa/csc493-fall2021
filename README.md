@@ -1,7 +1,7 @@
 # *Replace with YourProposedProposedProjectName*
 ## Description/Motivation
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here.
+Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
 
 ### Prerequisites
 
@@ -26,3 +26,4 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
+
