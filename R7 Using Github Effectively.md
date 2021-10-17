@@ -1,4 +1,4 @@
-# **R7 Using Github Effectively  Berea College CSC493 Fall 2021**
+# **R7 Using Github Effectively <sup>1</sup>**
 
     
 ## Purpose
@@ -106,7 +106,5 @@ Now that you know how to create Issues and Pull Requests, here are what we expec
 
 
 
-
-
-
+    <sub>1. Created by Immanuela Belaineh and Mario Nakazawa for CSC493 Fall 2021</sub>
 
