@@ -86,7 +86,7 @@ Now that you know how to create Issues and Pull Requests, here are what we expec
 
 1. Refer to your requirements.md document, pick at least 5 things you’d like to implement in your project, and create an issue for each one. 
   
-  **Important**: These issues CANNOT be about how you plan to implement these issues, such as "research how to use <language or function>". It must be the issue itself.
+    **Important**: These issues CANNOT be about how you plan to implement these issues, such as "research how to use <language or function>". It must be the issue itself.
   
 2. Assign yourself, **mario-nakazawa** and **belainehi** to your issues.
   
@@ -96,11 +96,9 @@ Now that you know how to create Issues and Pull Requests, here are what we expec
   
 5. Create pull requests for the weekly action items discussed in class. 
   
-6. After you create a pull request, link an issue to it by clicking on the settings icon next to Linked Issues. 
+6. After you create a pull request, link an issue to it by clicking on the settings icon next to Linked Issues. This step might not be neccessary if you've made a reference in your Pull request to the issue. 
 
- ![alt text](https://github.com/BC-senior-projects/git-repo-setup-belainehi/blob/main/Pull%20Requests/Linked%20Issue.png "Link Issue")
-  
-  If you've made a reference in your Pull request to the issue this step might not be neccessary. 
+ ![alt text](https://github.com/BC-senior-projects/git-repo-setup-belainehi/blob/main/Pull%20Requests/Linked%20Issue.png "Link Issue").
   
 7. Wait until our approval to merge and close your pull request even if you have completed working on that portion of your project. 
 
