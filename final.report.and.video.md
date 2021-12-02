@@ -1,6 +1,6 @@
 # CSC 493: Final Documentation and Video
 
-Be sure that your documentation is up to date and has all of the components listed below. Also, you will create a short 5 minute video to 
+Be sure that your documentation is up to date and has all of the components listed below. Also, you will create a short 5-8 minute video to 
 complement the poster session as described below:
 
 ## Final Documentation
@@ -56,5 +56,5 @@ Video About How To Make a Video...](https://www.youtube.com/watch?v=4gZ5rsAHMl4 
 # To Submit
   - Commit your updated code to Github.
   - Post [Video(s) (linked to YouTube)] publically and submit links to Moodle.
-  - Update all the docuemntation to reflect the current state of the project.
+  - Update all the documentation to reflect the current state of the project.
  
