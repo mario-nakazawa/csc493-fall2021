@@ -1,7 +1,7 @@
 # CSC 493: Final Documentation and Video
 
 Be sure that your documentation is up to date and has all of the components listed below. Also, you will create a short 5 minute video to 
-accompany the poster session as described below:
+complement the poster session as described below:
 
 ## Final Documentation
 
